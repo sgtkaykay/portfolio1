@@ -1,0 +1,103 @@
+*{
+	margin	:	0;
+	padding	:	0;
+}
+
+.content{
+	background: #eaeaed;
+	margin-top: 105px;
+	width: 100%;
+	min-height:	535px;
+}
+
+.header {
+	position: fixed;
+	top: 0%;
+	width: 100%;
+	z-index: 9999;
+  background: #55d6aa;
+	margin-bottom: 50px;
+}
+
+.header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+h1, h4, h5{
+	margin: 20px
+}
+
+.head {
+	margin: 25px;
+  float: left;
+}
+
+nav{
+	float:right;
+	margin-top: 25px;
+	margin-right: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  background: darkorange;
+list-style: none;
+margin: 0;
+padding-left: 0;
+}
+
+li {
+color: #fff;
+  background: #55d6aa;
+display: block;
+float: left;
+padding: 1rem;
+position: relative;
+text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+li a {
+  color: #fff;
+}
+
+li:hover {
+background: red;
+cursor: pointer;
+}
+
+ul li ul {
+background: orange;
+visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 1rem;
+left: 0;
+  display: none;
+}
+
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+ul li ul li {
+clear: both;
+  width: 100%;
+}
+
+.containerLT6{
+	margin-left: 20px;
+  height:900px;
+  width: 780px;
+  border: 1px solid black;
+}
