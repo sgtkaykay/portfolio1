@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="138mm"
+   height="138mm"
+   viewBox="0 0 138 138"
+   version="1.1"
+   id="svg899"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="sflower3.svg">
+  <title
+     id="title1466">small-yellow-flower</title>
+  <defs
+     id="defs893">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -10.500004 : 1"
+       inkscape:vp_y="0 : 999.99992 : 0"
+       inkscape:vp_z="209.99999 : -10.500004 : 1"
+       inkscape:persp3d-origin="105 : -60 : 1"
+       id="perspective1492" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="42.345079"
+     inkscape:cy="323.51059"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true" />
+  <metadata
+     id="metadata896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>small-yellow-flower</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#087a01;fill-opacity:1;stroke:#087a01;stroke-width:6.29899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1474"
+       sodipodi:sides="5"
+       sodipodi:cx="97.779846"
+       sodipodi:cy="156.19252"
+       sodipodi:r1="63.952854"
+       sodipodi:r2="51.738949"
+       sodipodi:arg1="0.5059504"
+       sodipodi:arg2="1.1342689"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 153.72032,187.18657 85.589313,218.97276 34.305209,163.9988 70.740895,98.236824 144.54349,112.56765 Z"
+       inkscape:transform-center-x="-10.27782"
+       inkscape:transform-center-y="1.1877714"
+       transform="rotate(43.97215,191.25259,77.381671)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#f3e300;stroke-width:6.29899;stroke-opacity:1"
+       id="path852"
+       sodipodi:sides="5"
+       sodipodi:cx="74.858528"
+       sodipodi:cy="70.446106"
+       sodipodi:r1="64.610954"
+       sodipodi:r2="52.271366"
+       sodipodi:arg1="0.52463454"
+       sodipodi:arg2="1.1529531"
+       inkscape:flatsided="true"
+       inkscape:rounded="-1.33"
+       inkscape:randomized="0"
+       d="M 130.77977,102.80952 C 181.38025,15.376177 -37.430758,112.52568 61.359703,133.63121 160.15016,154.73674 0.13918003,-23.344049 10.594559,77.133231 21.049937,177.61051 140.96872,-29.598969 48.640036,11.393874 -43.688647,52.386717 190.43622,102.405 122.91858,27.262695 55.400936,-47.879615 80.179281,190.24287 130.77977,102.80952 Z"
+       inkscape:transform-center-x="0.73735671"
+       inkscape:transform-center-y="-7.5345167"
+       transform="matrix(0.96038633,0.11016427,-0.11020794,0.96076699,5.4897626,-6.3556826)" />
+    <circle
+       style="fill:#800000;fill-opacity:1;stroke:#aa0000;stroke-width:6.29899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1470"
+       cx="68.580063"
+       cy="69.552742"
+       r="15.875" />
+  </g>
+</svg>

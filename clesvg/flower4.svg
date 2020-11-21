@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="138mm"
+   height="138mm"
+   viewBox="0 0 138 138"
+   version="1.1"
+   id="svg899"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="red--flower.svg">
+  <title
+     id="title1466">red-flower</title>
+  <defs
+     id="defs893">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -10.500004 : 1"
+       inkscape:vp_y="0 : 999.99992 : 0"
+       inkscape:vp_z="209.99999 : -10.500004 : 1"
+       inkscape:persp3d-origin="105 : -60 : 1"
+       id="perspective1492" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-275.71429"
+     inkscape:cy="680"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true" />
+  <metadata
+     id="metadata896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>red-flower</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#087a01;fill-opacity:1;stroke:#087a01;stroke-width:6.29899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1474"
+       sodipodi:sides="5"
+       sodipodi:cx="97.779846"
+       sodipodi:cy="156.19252"
+       sodipodi:r1="63.952854"
+       sodipodi:r2="51.738949"
+       sodipodi:arg1="0.5059504"
+       sodipodi:arg2="1.1342689"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 153.72032,187.18657 85.589313,218.97276 34.305209,163.9988 70.740895,98.236824 144.54349,112.56765 Z"
+       inkscape:transform-center-x="-10.27782"
+       inkscape:transform-center-y="1.1877714"
+       transform="rotate(43.97215,191.61587,77.779404)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ea1033;stroke-width:8.37759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path903"
+       sodipodi:sides="5"
+       sodipodi:cx="102.80952"
+       sodipodi:cy="83.154762"
+       sodipodi:r1="81.038658"
+       sodipodi:r2="0.8103866"
+       sodipodi:arg1="0.63976978"
+       sodipodi:arg2="1.2680883"
+       inkscape:flatsided="false"
+       inkscape:rounded="-1.5"
+       inkscape:randomized="0"
+       d="M 167.82142,131.53571 C 239.807,34.805095 -12.043287,119.87296 103.0511,83.928303 218.14548,47.983649 -37.35477,121.36435 76.886281,159.93529 191.12733,198.50624 32.39697,-14.730199 102.14849,83.623557 171.90001,181.97731 23.156894,-38.341985 21.776172,82.226789 20.39545,202.79556 174.14497,-14.059665 102.1594,82.670953 30.173822,179.40157 193.74578,-30.143943 78.651392,5.800712 -36.442993,41.745367 217.3098,120.9579 103.06875,82.386957 -11.172302,43.816011 238.66384,134.62906 168.91232,36.275304 99.1608,-62.078451 102.23913,203.73282 103.61985,83.164042 105.00057,-37.404732 95.835846,228.26633 167.82142,131.53571 Z"
+       inkscape:transform-center-x="6.0096435"
+       inkscape:transform-center-y="-0.22603586"
+       transform="matrix(0.80501354,0,0,0.78824247,-12.817464,3.4606668)" />
+    <circle
+       style="fill:#800000;fill-opacity:1;stroke:#aa0000;stroke-width:6.29899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1470"
+       cx="70.227974"
+       cy="66.750595"
+       r="15.875" />
+  </g>
+</svg>
