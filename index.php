@@ -21,14 +21,18 @@
               <li><a href="index.php?page=svgcle">Culminating Learning Evidence</a></li>
             </ul>
           </li>
-          <li><a href="index.php?page=canvas">Canvas</a></li>
+          <li><a href="#">Canvas</a>
+            <ul class="dropdown">
+              <li><a href="index.php?page=cnv7-1">Learning Task 6.1</a></li>
+            </ul>
+          </li>
           <li><a href="index.php?page=about">Faus</a></li>
         </ul>
       </nav>
     </div>
     <div class="content">
-			<?php
-			switch ($load) {
+	<?php
+	switch ($load) {
 				case 'home':
 				    require_once('home.php');
 				        break;
@@ -44,15 +48,15 @@
         case 'svgcle':
             require_once('SVG/cle.php');
                 break;
-        case 'canvas':
-            require_once('canvas.php');
+        case 'cnv7-1':
+            require_once('Canvas/lt7-1.php');
                 break;
         case 'about':
             require_once('about.php');
                 break;
-				default:
-					  require_once('home.php');
-					      break;
+	default:
+	    require_once('home.php');
+		break;
 				}
 			?>
     </div>
